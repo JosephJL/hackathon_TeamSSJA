@@ -235,7 +235,7 @@ elif page_directory == 'Donate and help a person.':
         image = Image.open("home.jpg")
         st.image(image)
         st.progress(0.999)
-        st.write(f'**Current donation amount is 21000**')
+        st.write(f'**Current donation amount is $2000**')
         st.write('The donation goal has been reached! Thank you for your contribution.')
     
     st.write('**Donation leaderboard**')

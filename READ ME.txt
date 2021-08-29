@@ -1,0 +1,9 @@
+Running on local 
+
+Web application dependencies: streamlit, pandas, PIL
+
+Opening the web application locally: 
+streamlit run app.py in your command prompt.
+
+Ensure that all the image files are present in your user directory : (education, home, sick-child, stocks, tractor)
+example of file path to user directory: C:\Users\ASUS
